@@ -79,7 +79,8 @@ Step 14 : Used shapes, text boxes, and icons to enhance dashboard UI.
 
 Step 15 : Published the report to Power BI Service.
 
-`DAX Measures Used`
+## DAX Measures Used
+
 `Total Policies = COUNT(Insurance_Data[Policy_ID])`
 
 `Total Premium = SUM(Insurance_Data[Premium_Amount])`
